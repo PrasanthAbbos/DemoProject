@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-02-09T06:27:50Z" name="Default suite" finished-at="2019-02-09T06:28:43Z" duration-ms="52962">
+    <groups>
+    </groups>
+    <test started-at="2019-02-09T06:27:50Z" name="Default test" finished-at="2019-02-09T06:28:43Z" duration-ms="52962">
+      <class name="com.google.testcases.GoogleSearch">
+        <test-method signature="GSearch()[pri:0, instance:com.google.testcases.GoogleSearch@87a85e1]" started-at="2019-02-09T06:27:50Z" name="GSearch" finished-at="2019-02-09T06:28:43Z" duration-ms="52899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GSearch -->
+      </class> <!-- com.google.testcases.GoogleSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
